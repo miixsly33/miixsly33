@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Olesia...
 - 🌱 I’m currently learning Java
-- 🤔 I’m looking for help with JavaScript ;(
+- 🤔 I’m looking for help with CPP ;(
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: https://solo.to/miix
 - 📫 How to reach me: 
