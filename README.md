@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Olesia...
 - 🌱 I’m currently learning Java
 - 🤔 I’m looking for help with CPP ;(
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/elle
 - ⚡ Fun fact: https://solo.to/miix
 - 📫 How to reach me: 
 
